@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NearbyPlaces</string>
+    <string name="google_map_key">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+    <string name="google_map_key_ruto">AIzaSyD4KfDcLVjVPatpIKtrPXot024Z4UHVZQ8</string>
+    <string name="google_map_key3">AIzaSyAm6s9p3cGIVx5SJEm0mhEjmlyr00Ssn_k</string>
+</resources>
